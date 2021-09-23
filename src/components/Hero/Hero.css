@@ -1,0 +1,10 @@
+.hero {
+    background-image:url('https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/13/85/1385480_v5.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-body {
+    text-align: center;
+    justify-content: center;
+}

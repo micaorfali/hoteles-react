@@ -1,0 +1,4 @@
+.card:hover {
+    transform: translate3D(0,-5px,0) scale(1.03);
+  }
+
